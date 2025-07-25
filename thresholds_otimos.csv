@@ -1,0 +1,6 @@
+"Modelo","Threshold"
+"MaxEnt",0.19
+"GLM",0.11
+"Random Forest",0.02
+"GAM",0.01
+"Ensemble",0.29
